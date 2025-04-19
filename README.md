@@ -1,1 +1,1 @@
-i made a hangul keyboard!!
+hangul keyboard to practice korean typing
